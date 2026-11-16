@@ -1,0 +1,5 @@
+{
+  "name": "cf-workers-docker-io",
+  "main": "_worker.js",
+  "compatibility_date": "2026-11-16"
+}
